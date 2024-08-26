@@ -21,5 +21,16 @@ This is a simple Todo App built with Vue.js and Firebase Firestore. The app allo
 
 1. **Clone the Repository:**
    ```bash
-   git clone 
-   cd todo
+   git clone https://github.com/welferdinand/todoApp.git
+   cd client
+   ```
+
+2. **Install Dependencies:**
+   ```
+   npm install
+   ```
+
+3. **Run the Application:**
+   ```
+   npm run dev
+   ```
